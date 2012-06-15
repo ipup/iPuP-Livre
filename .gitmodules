@@ -88,3 +88,12 @@
 [submodule "Chap5/iAd"]
 	path = Chap5/iAd
 	url = git@github.com:iPuP-Livre/iAd.git
+[submodule "HelloStoryboard"]
+	path = HelloStoryboard
+	url = git@github.com:iPuP-Livre/HelloStoryboard.git
+[submodule "Chap2/HelloStoryboard"]
+	path = Chap2/HelloStoryboard
+	url = git@github.com:iPuP-Livre/HelloStoryboard.git
+[submodule "Chap2/HelloiPuP"]
+	path = Chap2/HelloiPuP
+	url = git@github.com:iPuP-Livre/HelloiPuP.git
