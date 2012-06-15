@@ -1,0 +1,90 @@
+[submodule "Chap5/Animations"]
+	path = Chap5/Animations
+	url = git@github.com:iPuP-Livre/Animations.git
+[submodule "Chap3/ApprentissageDelegate"]
+	path = Chap3/ApprentissageDelegate
+	url = git@github.com:iPuP-Livre/ApprentissageDelegate.git
+[submodule "Chap5/Composer"]
+	path = Chap5/Composer
+	url = git@github.com:iPuP-Livre/Composer.git
+[submodule "Chap6/CoreData"]
+	path = Chap6/CoreData
+	url = git@github.com:iPuP-Livre/CoreData.git
+[submodule "Chap4/CoreLocation"]
+	path = Chap4/CoreLocation
+	url = git@github.com:iPuP-Livre/CoreLocation.git
+[submodule "Chap7/Cuisine"]
+	path = Chap7/Cuisine
+	url = git@github.com:iPuP-Livre/Cuisine.git
+[submodule "Chap7/CustomUI"]
+	path = Chap7/CustomUI
+	url = git@github.com:iPuP-Livre/CustomUI.git
+[submodule "Chap7/DebugApp"]
+	path = Chap7/DebugApp
+	url = git@github.com:iPuP-Livre/DebugApp.git
+[submodule "Chap5/EventFromCalendar"]
+	path = Chap5/EventFromCalendar
+	url = git@github.com:iPuP-Livre/EventFromCalendar.git
+[submodule "Chap3/EventHandling"]
+	path = Chap3/EventHandling
+	url = git@github.com:iPuP-Livre/EventHandling.git
+[submodule "Chap3/EventHandling_IB"]
+	path = Chap3/EventHandling_IB
+	url = git@github.com:iPuP-Livre/EventHandling_IB.git
+[submodule "Chap4/GPS"]
+	path = Chap4/GPS
+	url = git@github.com:iPuP-Livre/GPS.git
+[submodule "Chap4/GPS-2"]
+	path = Chap4/GPS-2
+	url = git@github.com:iPuP-Livre/GPS-2.git
+[submodule "Chap5/GestionVues"]
+	path = Chap5/GestionVues
+	url = git@github.com:iPuP-Livre/GestionVues.git
+[submodule "Chap7/Git"]
+	path = Chap7/Git
+	url = git@github.com:iPuP-Livre/Git.git
+[submodule "Chap4/PlayWithPhoto"]
+	path = Chap4/PlayWithPhoto
+	url = git@github.com:iPuP-Livre/PlayWithPhoto.git
+[submodule "Chap6/PropertyList"]
+	path = Chap6/PropertyList
+	url = git@github.com:iPuP-Livre/PropertyList.git
+[submodule "Chap5/Ratings"]
+	path = Chap5/Ratings
+	url = git@github.com:iPuP-Livre/Ratings.git
+[submodule "Chap4/Reveil"]
+	path = Chap4/Reveil
+	url = git@github.com:iPuP-Livre/Reveil.git
+[submodule "Chap6/SQLite"]
+	path = Chap6/SQLite
+	url = git@github.com:iPuP-Livre/SQLite.git
+[submodule "Chap3/ScrollView"]
+	path = Chap3/ScrollView
+	url = git@github.com:iPuP-Livre/ScrollView.git
+[submodule "Chap4/ShakeToPlay"]
+	path = Chap4/ShakeToPlay
+	url = git@github.com:iPuP-Livre/ShakeToPlay.git
+[submodule "Chap5/TabBar"]
+	path = Chap5/TabBar
+	url = git@github.com:iPuP-Livre/TabBar.git
+[submodule "Chap3/TableView"]
+	path = Chap3/TableView
+	url = git@github.com:iPuP-Livre/TableView.git
+[submodule "Chap5/TimerBall"]
+	path = Chap5/TimerBall
+	url = git@github.com:iPuP-Livre/TimerBall.git
+[submodule "Chap7/TutoGit"]
+	path = Chap7/TutoGit
+	url = git@github.com:iPuP-Livre/TutoGit.git
+[submodule "Chap4/Tuto_push"]
+	path = Chap4/Tuto_push
+	url = git@github.com:iPuP-Livre/Tuto_push.git
+[submodule "Chap7/Twitter"]
+	path = Chap7/Twitter
+	url = git@github.com:iPuP-Livre/Twitter.git
+[submodule "Chap6/Univegit"]
+	path = Chap6/Univegit
+	url = git@github.com:iPuP-Livre/UniversalApp.git
+[submodule "Chap5/iAd"]
+	path = Chap5/iAd
+	url = git@github.com:iPuP-Livre/iAd.git
