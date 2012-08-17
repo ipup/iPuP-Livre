@@ -97,3 +97,6 @@
 [submodule "Chap2/HelloiPuP"]
 	path = Chap2/HelloiPuP
 	url = git@github.com:iPuP-Livre/HelloiPuP.git
+[submodule "Chap2/HelloiPuP_Bg"]
+	path = Chap2/HelloiPuP_Bg
+	url = https://github.com/iPuP-Livre/HelloiPuP_Bg.git
